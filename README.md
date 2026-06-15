@@ -149,6 +149,7 @@ Navigate to the [dbt_youtube](file:///Users/muhammadabbas/Documents/DataEngineer
 | `dbt seed` | Load static seed data (e.g., [lookup.csv](file:///Users/muhammadabbas/Documents/DataEngineering/dbt-begineers/dbt_youtube/seeds/lookup.csv)) |
 | `dbt run` | Execute and build all models in order |
 | `dbt test` | Execute generic and singular tests |
+| `dbt build` | Build complete dbt project |
 | `dbt clean` | Delete generated targets and packages |
 | `dbt docs generate` | Generate project documentation website |
 | `dbt docs serve` | Launch local web server for interactive docs |
